@@ -1,0 +1,6 @@
+SUCCESS: ADD Hamlet 2
+ERROR: Cannot RETURN 1 of 'Brave New World'.
+SUCCESS: ADD Dune 1
+SUCCESS: ADD 1984 1
+ERROR: Cannot RETURN 5 of 'Hamlet'.
+SUCCESS: ADD "The Little Prince" 2
